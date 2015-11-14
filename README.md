@@ -1,6 +1,6 @@
 # Angular 2 und modularer Code -- Beispiele
 
-In diesem Verzeichnis finden sie das im Artikel gezeigte Beispiel unter `src/`.
+In diesem Verzeichnis finden Sie das im Artikel gezeigte Beispiel unter `src/`.
 
 ## Setup & Start
 
