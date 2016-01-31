@@ -2,6 +2,9 @@
 
 In diesem Verzeichnis finden Sie das im Artikel gezeigte Beispiel unter `src/`.
 
+![Screenshot](screenshot_hello_alice.png)
+![Screenshot](screenshot_jspm_install.png)
+
 ## Setup & Start
 
 Alle gezeigten Kommandozeilen-Befehle setzen voraus, dass [Node.js](https://nodejs.org/) installiert ist. 
